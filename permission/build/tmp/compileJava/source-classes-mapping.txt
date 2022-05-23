@@ -1,0 +1,168 @@
+com/permission/model/response/FeatureResponse.java
+ com.permission.model.response.FeatureResponse
+com/permission/model/entity/RoleAccount.java
+ com.permission.model.entity.RoleAccount
+com/permission/model/entity/Feature.java
+ com.permission.model.entity.Feature
+com/permission/service/RoleAccountServiceInternal.java
+ com.permission.service.RoleAccountServiceInternal
+com/permission/service/impl/ModuleInternalServiceImpl.java
+ com.permission.service.impl.ModuleInternalServiceImpl
+com/permission/service/RoleAccountService.java
+ com.permission.service.RoleAccountService
+com/permission/validator/RoleValidator.java
+ com.permission.validator.RoleValidator
+com/permission/service/impl/RoleGroupServiceInternalImpl.java
+ com.permission.service.impl.RoleGroupServiceInternalImpl
+com/permission/model/response/RoleResponse.java
+ com.permission.model.response.RoleResponse
+com/permission/config/PermissionData.java
+ com.permission.config.PermissionData
+com/permission/repository/ModuleRepository.java
+ com.permission.repository.ModuleRepository
+com/permission/config/SwaggerConfig.java
+ com.permission.config.SwaggerConfig
+com/permission/service/impl/RoleAccountServiceInternalImpl.java
+ com.permission.service.impl.RoleAccountServiceInternalImpl
+com/permission/service/impl/FeatureInternalServiceImpl.java
+ com.permission.service.impl.FeatureInternalServiceImpl
+com/permission/model/bo/BaseBusinessObject.java
+ com.permission.model.bo.BaseBusinessObject
+com/permission/model/bo/TableValidate.java
+ com.permission.model.bo.TableValidate
+com/permission/repository/RoleFeatureRepository.java
+ com.permission.repository.RoleFeatureRepository
+com/permission/model/request/CreateRoleAccountRequest.java
+ com.permission.model.request.CreateRoleAccountRequest
+com/permission/service/ModuleInternalService.java
+ com.permission.service.ModuleInternalService
+com/permission/service/impl/RoleServiceImpl.java
+ com.permission.service.impl.RoleServiceImpl
+com/permission/service/GroupFeatureInternalService.java
+ com.permission.service.GroupFeatureInternalService
+com/permission/repository/InsertUpdateRepository.java
+ com.permission.repository.InsertUpdateRepository
+com/permission/validator/NumberVariable.java
+ com.permission.validator.NumberVariable
+com/permission/model/entity/Module.java
+ com.permission.model.entity.Module
+com/permission/repository/FeatureRepository.java
+ com.permission.repository.FeatureRepository
+com/permission/model/response/ModuleResponse.java
+ com.permission.model.response.ModuleResponse
+com/permission/service/impl/GroupInternalServiceImpl.java
+ com.permission.service.impl.GroupInternalServiceImpl
+com/permission/validator/CreateRoleValidator.java
+ com.permission.validator.CreateRoleValidator
+com/permission/caller/RestClient.java
+ com.permission.caller.RestClient
+com/permission/repository/RoleGroupRepository.java
+ com.permission.repository.RoleGroupRepository
+com/permission/service/impl/RoleAccountServiceImpl.java
+ com.permission.service.impl.RoleAccountServiceImpl
+com/permission/model/request/ValidateRolesRequest.java
+ com.permission.model.request.ValidateRolesRequest
+com/permission/service/impl/GroupFeatureInternalServiceImpl.java
+ com.permission.service.impl.GroupFeatureInternalServiceImpl
+com/permission/repository/InsertUpdateRepositoryImpl.java
+ com.permission.repository.InsertUpdateRepositoryImpl
+com/permission/repository/RoleAccountRepository.java
+ com.permission.repository.RoleAccountRepository
+com/permission/model/request/UpdateRoleRequest.java
+ com.permission.model.request.UpdateRoleRequest
+com/permission/mapper/FeatureMapper.java
+ com.permission.mapper.FeatureMapper
+com/permission/model/entity/AbsEntity.java
+ com.permission.model.entity.AbsEntity
+com/permission/controller/ModuleController.java
+ com.permission.controller.ModuleController
+com/permission/model/entity/GroupFeature.java
+ com.permission.model.entity.GroupFeature
+com/permission/mapper/GroupMapper.java
+ com.permission.mapper.GroupMapper
+com/permission/service/RoleGroupServiceInternal.java
+ com.permission.service.RoleGroupServiceInternal
+com/permission/converter/BitSetModuleConverter.java
+ com.permission.converter.BitSetModuleConverter
+com/permission/controller/GroupController.java
+ com.permission.controller.GroupController
+com/permission/controller/RoleController.java
+ com.permission.controller.RoleController
+com/permission/model/entity/BaseEntity.java
+ com.permission.model.entity.BaseEntity
+com/permission/PermissionApplication.java
+ com.permission.PermissionApplication
+com/permission/model/request/AuthorRequest.java
+ com.permission.model.request.AuthorRequest
+com/permission/model/response/CreateRoleResponse.java
+ com.permission.model.response.CreateRoleResponse
+com/permission/model/entity/Group.java
+ com.permission.model.entity.Group
+com/permission/model/request/UpdateRoleAccountRequest.java
+ com.permission.model.request.UpdateRoleAccountRequest
+com/permission/service/FeatureInternalService.java
+ com.permission.service.FeatureInternalService
+com/permission/model/entity/RoleGroup.java
+ com.permission.model.entity.RoleGroup
+com/permission/repository/RoleRepository.java
+ com.permission.repository.RoleRepository
+com/permission/service/impl/RoleFeatureServiceInternalImpl.java
+ com.permission.service.impl.RoleFeatureServiceInternalImpl
+com/permission/model/entity/RoleFeature.java
+ com.permission.model.entity.RoleFeature
+com/permission/model/bo/StatusCommon.java
+ com.permission.model.bo.StatusCommon
+com/permission/config/AppConfiguration.java
+ com.permission.config.AppConfiguration
+com/permission/mapper/impl/RoleAccountMapper.java
+ com.permission.mapper.impl.RoleAccountMapper
+com/permission/mapper/impl/RoleMapper.java
+ com.permission.mapper.impl.RoleMapper
+com/permission/service/GroupInternalService.java
+ com.permission.service.GroupInternalService
+com/permission/service/impl/GroupServiceImpl.java
+ com.permission.service.impl.GroupServiceImpl
+com/permission/repository/GroupFeatureRepository.java
+ com.permission.repository.GroupFeatureRepository
+com/permission/config/Killer.java
+ com.permission.config.Killer
+com/permission/model/entity/Role.java
+ com.permission.model.entity.Role
+com/permission/service/GroupService.java
+ com.permission.service.GroupService
+com/permission/controller/RoleAccountController.java
+ com.permission.controller.RoleAccountController
+com/permission/repository/GroupRepository.java
+ com.permission.repository.GroupRepository
+com/permission/model/response/CreateRoleAccountResponse.java
+ com.permission.model.response.CreateRoleAccountResponse
+com/permission/service/impl/ModuleServiceImpl.java
+ com.permission.service.impl.ModuleServiceImpl
+com/permission/validator/CreateRole.java
+ com.permission.validator.CreateRole
+com/permission/util/Global.java
+ com.permission.util.Global
+com/permission/model/request/RoleRequest.java
+ com.permission.model.request.RoleRequest
+com/permission/service/impl/RoleInternalServiceImpl.java
+ com.permission.service.impl.RoleInternalServiceImpl
+com/permission/service/RoleService.java
+ com.permission.service.RoleService
+com/permission/service/ModuleService.java
+ com.permission.service.ModuleService
+com/permission/mapper/ModuleMapper.java
+ com.permission.mapper.ModuleMapper
+com/permission/service/RoleInternalService.java
+ com.permission.service.RoleInternalService
+com/permission/model/response/GroupResponse.java
+ com.permission.model.response.GroupResponse
+com/permission/model/bo/Method.java
+ com.permission.model.bo.Method
+com/permission/service/RoleFeatureServiceInternal.java
+ com.permission.service.RoleFeatureServiceInternal
+com/permission/model/response/RoleResponseDetail.java
+ com.permission.model.response.RoleResponseDetail
+com/permission/model/response/GetRoleResponse.java
+ com.permission.model.response.GetRoleResponse
+com/permission/validator/NumberVariableValidator.java
+ com.permission.validator.NumberVariableValidator
